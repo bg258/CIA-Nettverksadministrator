@@ -5,29 +5,6 @@
 
 [![Azure Practitioner](https://img.shields.io/badge/azure-fundamentals-orange)](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals)
 
-</div>
-
-> The world rewards specialization but it cames a cost: you learn more and more about less and less until you know everything about nothing.
-
-> I am studying for the AZ900 Microsoft Certification Azure Fundamentals Exam. Here is the study path that I designed and I am following :)
-
-## Recommendations
-
-```
-Some recommendations that work for me:
-  - I googled "Azure Fundamentals Certification". My first result was the certification site which has severals resources, so I started here.
-  - I checked a learning path, which is detailed below and that recommends to study the concepts in this order: cloud concepts, Azure services, security terms and Azure costs and support.
-  - I created a plan to study each set of concepts during a month dedicating a week for each one.
-  - I read the requirements, rules, times, numbers of questions related to the exam! I didn't want to lose the exam for not being on time.
-  - I took notes of key terms and concepts. In most cases, the names have a relation with the objective of the service. So using my background and logic I solved some questions!
-  - I took notes of little details that I considered important or hard to remember. In this way, when I was learning, I could go back and I had a chance to remember the notes with just a quick look.
-  - I completed the course - Azure Fundamentals. It is free and it takes 10 hours.
-  - I tried some Azure Fundamentals sample questions.
-  - I read about the pricing model, conditions of service support and the available regions.
-  - I tried the simulation tests in [Whizlabs], [Udemy] y [O'reilly]. They are paid, but free trial versions work well.
-  - I am going to attend the online exam, so I will tell you how it goes!
-```
-
 ## Roadmap
 
 - [ ] [Azure Training](#step-1-azure-training)
@@ -46,7 +23,7 @@ Some recommendations that work for me:
 - [Azure Youtube Channel](https://www.youtube.com/user/windowsazure/featured)
 - [Whizlabs](https://www.whizlabs.com)
 - [Udemy](https://www.udemy.com/)
-- [O'Reilly](https://www.oreilly.com/)
+- [O&#39;Reilly](https://www.oreilly.com/)
 
 ## [Step 3 Azure Concepts](https://docs.microsoft.com/es-es/learn/paths/azure-fundamentals/)
 
@@ -165,18 +142,3 @@ Some recommendations that work for me:
 | Azure CloudShell |
 | Azure Mobile App |
 | Azure REST API   |
-
-That's all folks! :smile:
-
-<div align="center">
-    <img src="https://github.com/yurynino/learning-azure-fundamentals/blob/master/images/azure_certifications.png" width="900px" />
-</div>
-<div align="center">
-    <img src="https://github.com/yurynino/learning-azure-fundamentals/blob/master/images/azure_percentages.png" width="900px" />
-</div>
-
----
-
-## Contributing
-
-See [CONTRIBUTING.md](https://github.com/yurynino/learning-aws-practitioner/blob/master/CONTRIBUTING.md)
